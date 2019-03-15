@@ -3,11 +3,11 @@ entries:
   fellrace-finder-server:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-03-12T22:36:45.621440545Z
+    created: 2019-03-15T22:57:20.132261888Z
     description: A Helm chart for Kubernetes
-    digest: 4fc79eb1b2bcfeef0c5973ef96fdc41e38b93fda9e1b8f970e3c81c54b3f47c2
+    digest: f987daad89a8c6b519c3fa3b3a81f75afc6be97cef25bcdb44f7865987e447e4
     name: fellrace-finder-server
     urls:
     - fellrace-finder-server-0.1.0.tgz
     version: 0.1.0
-generated: 2019-03-12T22:36:45.620765168Z
+generated: 2019-03-15T22:57:20.131659837Z
